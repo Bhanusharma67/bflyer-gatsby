@@ -2,26 +2,17 @@
 templateKey: index-page
 title: Bflyer.in
 image: /img/digital-4368784_1920.jpg
-heading: About us
+heading: Why you need us?
 subheading: Give Wings to your Business
 mainpitch:
   title: Why Bflyer?
   description: >-
     
     Bflyer  help businesses to create their brand presence and achieve their goals. Our process is designed to empower your brand and outfit your business with the marketing tools needed to succeed. Talk to us today about how we can support your growth, limit your turnover, and put you on a solid track to success and profit.
-description: "Passionate Marketing Experts: For the past 10 years, we have
-  helped businesses create their brand presence and achieve their goals. Our
-  process is designed to empower your brand and outfit your business with the
-  marketing tools needed to succeed. Talk to us today about how we can support
-  your growth, limit your turnover, and put you on a solid track to success and
-  profit. Our Analytical Approach Our service includes a comprehensive consult
-  to help identify gaps and opportunities, and results in a comprehensive report
-  that includes a project plan with timelines a cost analysis. Our
-  individualized plans are made up of quality services that will help you get
-  there quickly and smoothly.  Industry Wide Success We work with a large number
-  of clients from various industries, including: ⦁\tReal Estate
-  ⦁\tFinancial/Banking ⦁\tPlumbing ⦁\tRestaurant Our marketing experts are ready
-  assist you in developing a marketing plan that drives your business."
+description: Let us sit down with you and look over your marketing plan. Do you
+  have questions about your current plan? Do you have an upcoming project that
+  needs a marketing push? With a consultation, we can get you on the right
+  track.
 intro:
   blurbs:
     - image: /img/pexels-mikael-blomkvist-6476802.jpg
@@ -30,7 +21,7 @@ intro:
         promote your products or services.  Social Media is the best platform to
         capture the right audience. 
     - image: /img/seo-793032_1920.jpg
-      text: We are SEM experts and provide best services to gain the the market share
+      text: We as an SEM expert, provides best services to gain the the market share
         by using search engine marketing technique. We are expert as a digital
         Marketing agency that promotes the websites by increasing their
         visibility in search engine results pages.
@@ -58,11 +49,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/online-marketing-1246457_1920.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/social-media-4140959_1920.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/pexels-mikael-blomkvist-6476802.jpg
 ---
