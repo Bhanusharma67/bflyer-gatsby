@@ -24,26 +24,20 @@ description: "Passionate Marketing Experts: For the past 10 years, we have
   assist you in developing a marketing plan that drives your business."
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/pexels-mikael-blomkvist-6476802.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Your business needs the use of social media platforms and websites to
+        promote your products or services.  Social Media is the best platform to
+        capture the right audience. 
+    - image: /img/internet-search-engine-1519471_1920.jpg
+      text: We are SEM experts and provide best services to gain the the market share
+        by using search engine marketing technique. We are expert as a digital
+        Marketing agency that promotes the websites by increasing their
+        visibility in search engine results pages.
+    - image: /img/seo-758264_1920.jpg
+      text: "SEO is one of our Digital Marketing services where we improves the
+        quality and quantity of website traffic to a website or a web page from
+        search engines tool. "
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
