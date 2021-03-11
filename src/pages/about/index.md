@@ -1,19 +1,17 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: About us
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+## ***Passionate Marketing Experts***
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+For the past 10 years, we have helped businesses create their brand presence and achieve their goals. Our process is designed to empower your brand and outfit your business with the marketing tools needed to succeed. Talk to us today about how we can support your growth, limit your turnover, and put you on a solid track to success and profit
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## ***Our Analytical Approach***
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Our service includes a comprehensive consult to help identify gaps and opportunities, and results in a comprehensive report that includes a project plan with timelines a cost analysis. Our individualized plans are made up of quality services that will help you get there quickly and smoothly. 
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+## ***Industry Wide Success***
+
+
+Our marketing experts are ready to assist you in developing a marketing plan that drives your business and use the digital platform to reach out the target audience.
