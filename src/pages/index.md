@@ -29,7 +29,7 @@ intro:
         Your business needs the use of social media platforms and websites to
         promote your products or services.  Social Media is the best platform to
         capture the right audience. 
-    - image: /img/internet-search-engine-1519471_1920.jpg
+    - image: /img/seo-793032_1920.jpg
       text: We are SEM experts and provide best services to gain the the market share
         by using search engine marketing technique. We are expert as a digital
         Marketing agency that promotes the websites by increasing their
@@ -38,13 +38,11 @@ intro:
       text: "SEO is one of our Digital Marketing services where we improves the
         quality and quantity of website traffic to a website or a web page from
         search engines tool. "
-    - image: /img/meeting-space.png
+    - image: /img/internet-search-engine-1519471_1920.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        CMS Website building is a key to make presence of your business in the
+        market. Our experts understand your business and can make a digital
+        presence of your business.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
