@@ -1,21 +1,27 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: Bflyer.in
+image: /img/digital-4368784_1920.jpg
+heading: About us
+subheading: Give Wings to your Business
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Bflyer?
+  description: >-
+    
+    Bflyer  help businesses to create their brand presence and achieve their goals. Our process is designed to empower your brand and outfit your business with the marketing tools needed to succeed. Talk to us today about how we can support your growth, limit your turnover, and put you on a solid track to success and profit.
+description: "Passionate Marketing Experts: For the past 10 years, we have
+  helped businesses create their brand presence and achieve their goals. Our
+  process is designed to empower your brand and outfit your business with the
+  marketing tools needed to succeed. Talk to us today about how we can support
+  your growth, limit your turnover, and put you on a solid track to success and
+  profit. Our Analytical Approach Our service includes a comprehensive consult
+  to help identify gaps and opportunities, and results in a comprehensive report
+  that includes a project plan with timelines a cost analysis. Our
+  individualized plans are made up of quality services that will help you get
+  there quickly and smoothly.  Industry Wide Success We work with a large number
+  of clients from various industries, including: ⦁\tReal Estate
+  ⦁\tFinancial/Banking ⦁\tPlumbing ⦁\tRestaurant Our marketing experts are ready
+  assist you in developing a marketing plan that drives your business."
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -50,7 +56,7 @@ intro:
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    kwledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
