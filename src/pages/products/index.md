@@ -2,7 +2,7 @@
 heading: Bflyer's business services
 path: /products
 templateKey: product-page
-title: Digital Marketing
+title: Digital Marketing 1
 image: /img/digital-4369232_1920.jpg
 description: We provides multiple services of Digital Marketing because every
   business has its own requirement of promotion. Our experts understand your
