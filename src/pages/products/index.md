@@ -66,7 +66,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/digital-marketing.jpg
+full_image: /img/products-full-width.jpg
 pricing:
   heading: Marketing Plans
   description: Every business needs a sound marketing plan in order to survive and
