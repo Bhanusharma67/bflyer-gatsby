@@ -15,11 +15,9 @@ intro:
         quality and quantity of website traffic to a website or a web page from
         search engines tool.
     - image: /img/word-cloud-679939_1280.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: "Your business needs the use of social media platforms and websites to
+        promote your products or services.  Social Media is the best platform to
+        capture the right audience. "
     - image: /img/seo-793032_1920.jpg
       text: We as an SEM expert, provides best services to gain the the market share
         by using search engine marketing technique. We are expert as a
