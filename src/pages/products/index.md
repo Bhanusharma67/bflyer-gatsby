@@ -21,12 +21,10 @@ intro:
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
     - image: /img/seo-793032_1920.jpg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: We as an SEM expert, provides best services to gain the the market share
+        by using search engine marketing technique. We are expert as a
+        digital  Marketing agency that promotes the websites by increasing their
+        visibility in search engine results pages.
     - image: /img/online-marketing-1246457_1920.jpg
       text: >
         We believe that good coffee has the power to bring people together.
