@@ -52,50 +52,64 @@ export default class Index extends React.Component {
                 <input type="hidden" name="form-name" value="contact" />
                 <div hidden>
                   <label>
-                    Don’t fill this out:{' '}
+                    Don’t fill this out:{" "}
                     <input name="bot-field" onChange={this.handleChange} />
                   </label>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'name'}>
+                  <label className="label">
+                    Bhanu Sharma <br />
+                    862, Niti Khand-1,
+                    <br />
+                    Indirapuram, Ghaziabad
+                    <br />
+                    Uttar Pradesh-201014
+                    <br />
+                    Email ID: bhanusharma.rd@gmail.com
+                    <br />
+                    Phone: 8860646016, 9717670898
+                  </label>
+                </div>
+                <div className="field">
+                  <label className="label" htmlFor={"name"}>
                     Your name
                   </label>
                   <div className="control">
                     <input
                       className="input"
-                      type={'text'}
-                      name={'name'}
+                      type={"text"}
+                      name={"name"}
                       onChange={this.handleChange}
-                      id={'name'}
+                      id={"name"}
                       required={true}
                     />
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'email'}>
+                  <label className="label" htmlFor={"email"}>
                     Email
                   </label>
                   <div className="control">
                     <input
                       className="input"
-                      type={'email'}
-                      name={'email'}
+                      type={"email"}
+                      name={"email"}
                       onChange={this.handleChange}
-                      id={'email'}
+                      id={"email"}
                       required={true}
                     />
                   </div>
                 </div>
                 <div className="field">
-                  <label className="label" htmlFor={'message'}>
+                  <label className="label" htmlFor={"message"}>
                     Message
                   </label>
                   <div className="control">
                     <textarea
                       className="textarea"
-                      name={'message'}
+                      name={"message"}
                       onChange={this.handleChange}
-                      id={'message'}
+                      id={"message"}
                       required={true}
                     />
                   </div>
@@ -110,6 +124,6 @@ export default class Index extends React.Component {
           </div>
         </section>
       </Layout>
-    )
+    );
   }
 }
